@@ -1,1 +1,1 @@
-# lora-dashboard-simpke
+# lora-dashboard-simple
