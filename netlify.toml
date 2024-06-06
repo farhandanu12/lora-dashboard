@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [build]
   publish = "public"
   command = "npm run build"
@@ -10,16 +10,3 @@
 
 [build.environment]
   PHP_VERSION = "8.2"
-=======
-[build]
-  publish = "public"
-  command = "npm run build"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-
-[build.environment]
-  PHP_VERSION = "8.2"
->>>>>>> 2c0739f5fb46489da8b2110038109f3404eabdad
