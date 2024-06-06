@@ -1,1 +1,1 @@
-# lora-dashboard-simple
+# lora-dashboard
